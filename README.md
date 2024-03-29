@@ -22,7 +22,7 @@ Serving the HTML pages.
 Testing the webserver.
 
 ## PROGRAM:
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -145,7 +145,7 @@ Testing the webserver.
 </body>
 
 </html>
-
+```
 ## OUTPUT:
 
 ![alt text](s1.png)
